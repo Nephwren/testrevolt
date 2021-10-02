@@ -1,9 +1,9 @@
 module.exports = {
-    Apply: 'https://revolt.chat/beta',
-    PublicBeta: 'https://revolt.chat/publicbeta',
-    GenerateCode: 'https://campaign.revolt.chat/api/revolt.chat',
-    ApplicationForm: 'https://revolt.chat/publicbeta',
-    App: 'https://app.revolt.chat',
+    Apply: 'https://testrevolt-l7pxfkgza-kuceramikey-gmailcom.vercel.app/beta',
+    PublicBeta: 'https://testrevolt-l7pxfkgza-kuceramikey-gmailcom.vercel.app/publicbeta',
+    GenerateCode: 'https://campaign.testrevolt-l7pxfkgza-kuceramikey-gmailcom.vercel.app/api/revolt.chat',
+    ApplicationForm: 'https://testrevolt-l7pxfkgza-kuceramikey-gmailcom.vercel.app/publicbeta',
+    App: 'https://app.testrevolt-l7pxfkgza-kuceramikey-gmailcom.vercel.app',
     Developers: 'https://developers.revolt.chat',
     ReleaseTracker: 'https://github.com/orgs/revoltchat/projects/2',
     
